@@ -1,2 +1,2 @@
-alx-system_engineering-devops
-So much to be a tech bro
+This is a project on Shell redirections and filters
+Will also include special characters and their functions
