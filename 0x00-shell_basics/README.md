@@ -1,1 +1,1 @@
-README.md
+Project readme for shell basics project directory
